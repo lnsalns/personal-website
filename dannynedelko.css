@@ -1,0 +1,40 @@
+body {
+	background-color: rgb(225,225,225);
+}
+
+.top-left {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgb(50,50,50);
+	margin-top: 15px;
+	padding-left: 20px;
+	display: inline-block;
+}
+
+.top-right {
+	float: right;
+	margin-top: 15px;
+	margin-right: 40px;
+	display: inline-block;
+	text-align: bottom;
+}
+
+
+.top-right a {
+	text-decoration: none;
+	color: rgb(50,50,50);
+	font-family: Helvetica;
+	font-weight: bold;
+	text-shadow: 10px;
+	font-size: 12px;
+	padding-right: 10px;
+}
+
+img {
+	margin-top: 60px;
+	height: 70%;
+	width: 70%;
+	border: 1px solid black;
+}
+
